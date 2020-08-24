@@ -4,8 +4,10 @@
 <p>Vue flavour of <a href="https://github.com/adam-cyclones/reactive-css-properties">Reactive CSS Properties</a> - A tiny library to supercharge your styling workflow. With Reactive CSS Properties (re.css) you can set css custom properties and react to changes in realtime from JavaScript</p>
 </p>
 
-##Experimental
+## Experimental
 The Plugin is functional but no release exists yet, or instructions or tests. check back in soon.
+
+**This is not the readme - TODO**
 
 Design notes
 ``` Vue
