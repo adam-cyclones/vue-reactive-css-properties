@@ -1,0 +1,19 @@
+{
+  "name": "vue-reactive-css-properties",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/adam-cyclones/vue-reactive-css-properties.git",
+  "author": "Adam Crockett",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "reactive-css-properties": "^1.5.6",
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "scripts": {
+    "build": "tsc -b tsconfig.commonjs.json"
+  }
+}

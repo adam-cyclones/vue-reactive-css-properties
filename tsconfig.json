@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "esModuleInterop": true,
+    "declaration": true,
+    "allowJs": false,
+    "target": "ES6",
+    "lib": [
+      "es2017",
+      "es6",
+      "dom"
+    ],
+    "rootDir": "src",
+    "moduleResolution": "node"
+  },
+  "files": [
+    "./src/vue-reactive-css-properties.ts"
+  ],
+  "exclude": [
+    "test",
+    "**/node_modules/**"
+  ]
+}
